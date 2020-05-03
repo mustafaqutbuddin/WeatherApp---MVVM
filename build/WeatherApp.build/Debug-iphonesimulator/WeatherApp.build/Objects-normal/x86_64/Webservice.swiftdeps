@@ -1,0 +1,303 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "HttpMethod"
+- "NetworkError"
+- "Resource"
+- "Webservice"
+provides-nominal:
+- "10WeatherApp10HttpMethodO"
+- "10WeatherApp12NetworkErrorO"
+- "10WeatherApp8ResourceV"
+- "10WeatherApp10WebserviceC"
+provides-member:
+- ["10WeatherApp10HttpMethodO", ""]
+- ["10WeatherApp12NetworkErrorO", ""]
+- ["10WeatherApp8ResourceV", ""]
+- ["10WeatherApp10WebserviceC", ""]
+provides-dynamic-lookup:
+- "load"
+depends-top-level:
+- "=="
+- "AssignmentPrecedence"
+- "Codable"
+- "Data"
+- !private "DispatchQueue"
+- "Error"
+- !private "FloatLiteralType"
+- "HttpMethod"
+- !private "IntegerLiteralType"
+- !private "JSONDecoder"
+- "NetworkError"
+- "Resource"
+- "Result"
+- "String"
+- "StringLiteralType"
+- "URL"
+- !private "URLRequest"
+- !private "URLSession"
+- "Void"
+- "Webservice"
+- !private "_findStringSwitchCase"
+- !private "~="
+depends-member:
+- !private ["s7CVarArgP", "async"]
+- !private ["s7CVarArgP", "dataTask"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "resume"]
+- !private ["s7CVarArgP", "shared"]
+- !private ["s28CustomDebugStringConvertibleP", "addValue"]
+- !private ["s28CustomDebugStringConvertibleP", "async"]
+- !private ["s28CustomDebugStringConvertibleP", "dataTask"]
+- !private ["s28CustomDebugStringConvertibleP", "httpBody"]
+- !private ["s28CustomDebugStringConvertibleP", "httpMethod"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "resume"]
+- !private ["s28CustomDebugStringConvertibleP", "shared"]
+- !private ["s17CustomReflectableP", "addValue"]
+- !private ["s17CustomReflectableP", "httpBody"]
+- !private ["s17CustomReflectableP", "httpMethod"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "addValue"]
+- !private ["s23CustomStringConvertibleP", "async"]
+- !private ["s23CustomStringConvertibleP", "dataTask"]
+- !private ["s23CustomStringConvertibleP", "httpBody"]
+- !private ["s23CustomStringConvertibleP", "httpMethod"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "resume"]
+- !private ["s23CustomStringConvertibleP", "shared"]
+- !private ["So18OS_dispatch_objectC", "async"]
+- !private ["So18OS_dispatch_objectC", "main"]
+- !private ["So17OS_dispatch_queueC", "async"]
+- !private ["So17OS_dispatch_queueC", "main"]
+- ["SQ", "=="]
+- ["SQ", "RawValue"]
+- ["SQ", ""]
+- ["SQ", "_Default_RawValue"]
+- ["SQ", "_code"]
+- ["SQ", "_domain"]
+- !private ["SQ", "_findStringSwitchCase"]
+- ["SQ", "_getEmbeddedNSError"]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "_userInfo"]
+- !private ["SQ", "addValue"]
+- !private ["SQ", "async"]
+- !private ["SQ", "dataTask"]
+- !private ["SQ", "decodingError"]
+- !private ["SQ", "domainError"]
+- !private ["SQ", "failure"]
+- ["SQ", "get"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- !private ["SQ", "httpBody"]
+- !private ["SQ", "httpMethod"]
+- ["SQ", "init"]
+- !private ["SQ", "main"]
+- ["SQ", "rawValue"]
+- !private ["SQ", "resume"]
+- !private ["SQ", "shared"]
+- !private ["SQ", "success"]
+- ["s5ErrorP", "=="]
+- ["s5ErrorP", ""]
+- ["s5ErrorP", "_code"]
+- ["s5ErrorP", "_domain"]
+- ["s5ErrorP", "_getEmbeddedNSError"]
+- ["s5ErrorP", "_rawHashValue"]
+- ["s5ErrorP", "_userInfo"]
+- !private ["s5ErrorP", "decodingError"]
+- !private ["s5ErrorP", "domainError"]
+- ["s5ErrorP", "hash"]
+- ["s5ErrorP", "hashValue"]
+- ["SH", "=="]
+- ["SH", "RawValue"]
+- ["SH", ""]
+- ["SH", "_Default_RawValue"]
+- ["SH", "_code"]
+- ["SH", "_domain"]
+- !private ["SH", "_findStringSwitchCase"]
+- ["SH", "_getEmbeddedNSError"]
+- ["SH", "_rawHashValue"]
+- ["SH", "_userInfo"]
+- !private ["SH", "addValue"]
+- !private ["SH", "async"]
+- !private ["SH", "dataTask"]
+- !private ["SH", "decodingError"]
+- !private ["SH", "domainError"]
+- !private ["SH", "failure"]
+- ["SH", "get"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- !private ["SH", "httpBody"]
+- !private ["SH", "httpMethod"]
+- ["SH", "init"]
+- !private ["SH", "main"]
+- ["SH", "rawValue"]
+- !private ["SH", "resume"]
+- !private ["SH", "shared"]
+- !private ["SH", "success"]
+- !private ["s6HasherV", "combine"]
+- ["10WeatherApp10HttpMethodO", "=="]
+- ["10WeatherApp10HttpMethodO", "RawValue"]
+- ["10WeatherApp10HttpMethodO", "_Default_RawValue"]
+- !private ["10WeatherApp10HttpMethodO", "_findStringSwitchCase"]
+- ["10WeatherApp10HttpMethodO", "_rawHashValue"]
+- ["10WeatherApp10HttpMethodO", "deinit"]
+- ["10WeatherApp10HttpMethodO", "get"]
+- ["10WeatherApp10HttpMethodO", "hash"]
+- ["10WeatherApp10HttpMethodO", "hashValue"]
+- ["10WeatherApp10HttpMethodO", "init"]
+- ["10WeatherApp10HttpMethodO", "post"]
+- ["10WeatherApp10HttpMethodO", "rawValue"]
+- !private ["10Foundation11JSONDecoderC", "decode"]
+- !private ["10Foundation11JSONDecoderC", "init"]
+- !private ["So9NSCopyingP", "resume"]
+- !private ["So8NSObjectC", "async"]
+- !private ["So8NSObjectC", "dataTask"]
+- !private ["So8NSObjectC", "main"]
+- !private ["So8NSObjectC", "resume"]
+- !private ["So8NSObjectC", "shared"]
+- !private ["So8NSObjectP", "async"]
+- !private ["So8NSObjectP", "dataTask"]
+- !private ["So8NSObjectP", "main"]
+- !private ["So8NSObjectP", "resume"]
+- !private ["So8NSObjectP", "shared"]
+- ["10WeatherApp12NetworkErrorO", "=="]
+- ["10WeatherApp12NetworkErrorO", "__derived_enum_equals"]
+- ["10WeatherApp12NetworkErrorO", "_code"]
+- ["10WeatherApp12NetworkErrorO", "_domain"]
+- ["10WeatherApp12NetworkErrorO", "_getEmbeddedNSError"]
+- ["10WeatherApp12NetworkErrorO", "_rawHashValue"]
+- ["10WeatherApp12NetworkErrorO", "_userInfo"]
+- ["10WeatherApp12NetworkErrorO", "decodingError"]
+- ["10WeatherApp12NetworkErrorO", "deinit"]
+- ["10WeatherApp12NetworkErrorO", "domainError"]
+- ["10WeatherApp12NetworkErrorO", "hash"]
+- ["10WeatherApp12NetworkErrorO", "hashValue"]
+- ["10WeatherApp12NetworkErrorO", "urlError"]
+- !private ["So9OS_objectC", "async"]
+- !private ["So9OS_objectC", "main"]
+- !private ["So19NSProgressReportingP", "resume"]
+- ["SY", "=="]
+- ["SY", "RawValue"]
+- ["SY", ""]
+- ["SY", "_Default_RawValue"]
+- !private ["SY", "_findStringSwitchCase"]
+- ["SY", "_rawHashValue"]
+- ["SY", "get"]
+- ["SY", "hash"]
+- ["SY", "hashValue"]
+- ["SY", "init"]
+- ["SY", "rawValue"]
+- !private ["10Foundation20ReferenceConvertibleP", "addValue"]
+- !private ["10Foundation20ReferenceConvertibleP", "httpBody"]
+- !private ["10Foundation20ReferenceConvertibleP", "httpMethod"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- ["10WeatherApp8ResourceV", "Data"]
+- ["10WeatherApp8ResourceV", "HttpMethod"]
+- ["10WeatherApp8ResourceV", "URL"]
+- ["10WeatherApp8ResourceV", "body"]
+- ["10WeatherApp8ResourceV", "httpMethod"]
+- ["10WeatherApp8ResourceV", "init"]
+- ["10WeatherApp8ResourceV", "url"]
+- !private ["s6ResultO", "failure"]
+- !private ["s6ResultO", "success"]
+- !private ["7Combine9SchedulerP", "async"]
+- !private ["7Combine9SchedulerP", "main"]
+- !private ["7Combine15TopLevelDecoderP", "decode"]
+- !private ["7Combine15TopLevelDecoderP", "init"]
+- !private ["10Foundation10URLRequestV", "addValue"]
+- !private ["10Foundation10URLRequestV", "httpBody"]
+- !private ["10Foundation10URLRequestV", "httpMethod"]
+- !private ["10Foundation10URLRequestV", "init"]
+- !private ["So12NSURLSessionC", "dataTask"]
+- !private ["So12NSURLSessionC", "shared"]
+- !private ["So20NSURLSessionDataTaskC", "resume"]
+- !private ["So16NSURLSessionTaskC", "resume"]
+- !private ["10WeatherApp10WebserviceC", "DispatchQueue"]
+- !private ["10WeatherApp10WebserviceC", "JSONDecoder"]
+- ["10WeatherApp10WebserviceC", "NetworkError"]
+- ["10WeatherApp10WebserviceC", "Resource"]
+- ["10WeatherApp10WebserviceC", "Result"]
+- !private ["10WeatherApp10WebserviceC", "URLRequest"]
+- !private ["10WeatherApp10WebserviceC", "URLSession"]
+- ["10WeatherApp10WebserviceC", "Void"]
+- ["10WeatherApp10WebserviceC", "deinit"]
+- ["10WeatherApp10WebserviceC", "init"]
+- ["10WeatherApp10WebserviceC", "load"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "async"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dataTask"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "resume"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shared"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "async"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "dataTask"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "main"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "resume"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "shared"]
+- !private ["s21_ObjectiveCBridgeableP", "addValue"]
+- !private ["s21_ObjectiveCBridgeableP", "httpBody"]
+- !private ["s21_ObjectiveCBridgeableP", "httpMethod"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+depends-nominal:
+- !private "s7CVarArgP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "So18OS_dispatch_objectC"
+- !private "So17OS_dispatch_queueC"
+- "SQ"
+- "s5ErrorP"
+- "SH"
+- !private "s6HasherV"
+- "10WeatherApp10HttpMethodO"
+- !private "10Foundation11JSONDecoderC"
+- !private "So9NSCopyingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- "10WeatherApp12NetworkErrorO"
+- !private "So9OS_objectC"
+- !private "So19NSProgressReportingP"
+- "SY"
+- !private "10Foundation20ReferenceConvertibleP"
+- "10WeatherApp8ResourceV"
+- !private "s6ResultO"
+- !private "7Combine9SchedulerP"
+- !private "7Combine15TopLevelDecoderP"
+- !private "10Foundation10URLRequestV"
+- !private "So12NSURLSessionC"
+- !private "So20NSURLSessionDataTaskC"
+- !private "So16NSURLSessionTaskC"
+- "10WeatherApp10WebserviceC"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "d233c29b9ed6aa949b8f741bed374f11"

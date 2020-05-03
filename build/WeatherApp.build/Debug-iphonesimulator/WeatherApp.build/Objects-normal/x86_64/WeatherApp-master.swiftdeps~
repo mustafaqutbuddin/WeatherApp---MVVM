@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "8f64a312ec8ecccde64bd36cdfdeca54"
+build_time: [1588509127, 424918000]
+inputs:
+  "/Users/sunbonn/Desktop/iOS13 - New Test Projects/WeatherApp/WeatherApp/AppDelegate.swift": [1588507198, 287859374]
+  "/Users/sunbonn/Desktop/iOS13 - New Test Projects/WeatherApp/WeatherApp/Controller/WeatherViewController.swift": [1588509127, 197693072]
+  "/Users/sunbonn/Desktop/iOS13 - New Test Projects/WeatherApp/WeatherApp/Webservice/Webservice.swift": [1587921924, 975768945]
+  "/Users/sunbonn/Desktop/iOS13 - New Test Projects/WeatherApp/WeatherApp/Model/WeatherModel.swift": [1588504317, 704510945]
+  "/Users/sunbonn/Desktop/iOS13 - New Test Projects/WeatherApp/WeatherApp/Utils/ApiConstants.swift": [1587907976, 129300394]
+  "/Users/sunbonn/Desktop/iOS13 - New Test Projects/WeatherApp/WeatherApp/View Model/WeatherViewModel.swift": [1588509036, 162775798]
+  "/Users/sunbonn/Desktop/iOS13 - New Test Projects/WeatherApp/WeatherApp/SceneDelegate.swift": [1587905149, 169697242]
+  "/Users/sunbonn/Desktop/iOS13 - New Test Projects/WeatherApp/WeatherApp/Utils/AppConstants.swift": [1587907855, 807628378]

@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "5eabc5df4d583070ab083a67edcec981"
+build_time: [1587906290, 365496000]
+inputs:
+  "/Users/sunbonn/Desktop/iOS13 - New Test Projects/WeatherApp/WeatherApp/ViewController.swift": [1587905149, 172306052]
+  "/Users/sunbonn/Desktop/iOS13 - New Test Projects/WeatherApp/WeatherApp/AppDelegate.swift": [1587905149, 142036688]
+  "/Users/sunbonn/Desktop/iOS13 - New Test Projects/WeatherApp/WeatherApp/SceneDelegate.swift": [1587905149, 169697242]
